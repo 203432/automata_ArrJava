@@ -3,7 +3,7 @@ from tkinter import Tk
 import tkinter.messagebox as mb
 import tkinter as tk
 import arregloAutomata as au
-import interface as inter
+import main as inter
 
 validos = []
 def validarCadena(cadena):
